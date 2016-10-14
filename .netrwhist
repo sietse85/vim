@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/sietse/project/es-eworld'
+let g:netrw_dirhist_2='/home/sietse/project/es-eworld/custom'
+let g:netrw_dirhist_3='/home/sietse/project/es-eworld/custom/include'
+let g:netrw_dirhist_4='/home/sietse/project/es-eworld/custom/include/Eworld'
+let g:netrw_dirhist_5='/home/sietse/project/es-eworld'
+let g:netrw_dirhist_6='/home/sietse/project/es-eworld/custom'
+let g:netrw_dirhist_7='/home/sietse/project/es-eworld/custom/script'
+let g:netrw_dirhist_8='/home/sietse'
