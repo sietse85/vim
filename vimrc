@@ -1,5 +1,4 @@
-set nocp
-execute pathogen#infect()
+execute pathogen#infect('~/.vim/bundle/{}')
 filetype off
 syntax on
 set background=dark
@@ -12,9 +11,6 @@ set number
 set tabstop=4
 set shiftwidth=4
 set colorcolumn=110
-<<<<<<< HEAD
 
-=======
 set encoding=utf-8
 set number
->>>>>>> c77fdd29e19f5754dc7d5a5e4909cb0f5c87cc3b
